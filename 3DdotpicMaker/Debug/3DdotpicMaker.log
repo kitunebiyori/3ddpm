@@ -1,0 +1,9 @@
+﻿  Colorpicker.cpp
+c:\users\hojyu\documents\visual studio 2015\projects\3ddotpicmaker\3ddotpicmaker\colorpicker.cpp(52): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\hojyu\documents\visual studio 2015\projects\3ddotpicmaker\3ddotpicmaker\colorpicker.cpp(112): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\hojyu\documents\visual studio 2015\projects\3ddotpicmaker\3ddotpicmaker\colorpicker.cpp(113): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  コンパイル中...
+  Main.cpp
+  コードを生成中...
+  3DdotpicMaker.vcxproj -> C:\Users\hojyu\documents\visual studio 2015\Projects\3DdotpicMaker\Debug\3DdotpicMaker.exe
